@@ -1,7 +1,3 @@
-Aquí tienes una versión en inglés y más llamativa para tu README en GitHub:
-
----
-
 # 🐍 Python Projects - Mid-Year Vacation 2024 🌟
 
 Welcome to my collection of Python scripts developed during my mid-year vacation in 2024! This repository showcases a variety of tools, automation scripts, and fun applications that I created to sharpen my programming skills and solve practical problems. Each project represents a unique challenge and learning experience. Feel free to explore, use, and modify these scripts for your own projects!
